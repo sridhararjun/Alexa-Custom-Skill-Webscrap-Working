@@ -8,6 +8,7 @@
   "dependencies": {
     "cheerio": "latest",
     "request": "latest",
+    "universal-analytics": "latest",
     "util": "latest"
   }
 }
